@@ -1,0 +1,9 @@
+{
+	"rpc_server": "https://data-seed-prebsc-2-s3.binance.org:8545/",
+	"contract_address": "0xE8bC392ef7C3A15f6180AFFEC4Da0c400073eaec",
+	"authorized_drawer_address": "0x18C4e4Aa859D459F2BDA187e20C582ac0e6D134d",
+	"gas_limit": 70000,
+	"gas_price_gwei": "10",
+	"sleep_base": 4000,
+	"sleep_range": 256
+}

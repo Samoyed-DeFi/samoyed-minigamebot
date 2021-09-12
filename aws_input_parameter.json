@@ -1,9 +1,9 @@
 {
-	"rpc_server": "https://data-seed-prebsc-2-s3.binance.org:8545/",
-	"contract_address": "0xb04B5002f0941716362CbD595B9b37672e585327",
-	"authorized_drawer_address": "0x18C4e4Aa859D459F2BDA187e20C582ac0e6D134d",
-	"gas_limit": 70000,
-	"gas_price_gwei": "10",
+	"rpc_server": "https://bsc-dataseed.binance.org/",
+	"contract_address": "0x8bBcb00244DaA5DE96E2e11f9b234d85234A3570",
+	"authorized_drawer_address": "0xE6DEe7E6cF59bbb44dd2DFB8148E80DA84C164CC",
+	"gas_limit": 65000,
+	"gas_price_gwei": "5",
 	"sleep_base": 3001,
 	"sleep_range": 1095
 }

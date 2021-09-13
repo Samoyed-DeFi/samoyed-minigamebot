@@ -2,7 +2,7 @@
 	"rpc_server": "https://bsc-dataseed.binance.org/",
 	"contract_address": "0x8bBcb00244DaA5DE96E2e11f9b234d85234A3570",
 	"authorized_drawer_address": "0xE6DEe7E6cF59bbb44dd2DFB8148E80DA84C164CC",
-	"gas_limit": 65000,
+	"gas_limit": 80000,
 	"gas_price_gwei": "5",
 	"sleep_base": 3001,
 	"sleep_range": 1095
